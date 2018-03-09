@@ -10,7 +10,7 @@ header {
 /* Menu  */
 
 nav.navbar.navbar-inverse.navbar-fixed-top {
-  background: rgba(0, 0, 0, .075);
+  background: rgba(0, 0, 0, 0.37);
   border-color: #ccb38b;
 }
 

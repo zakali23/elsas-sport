@@ -14,7 +14,7 @@
       </div>
 
         <div class="col-xs-6 col-xs-offset-3">    </br>
-          <p>Site réalisé par Zakaria, Jennifer, Ilya et Xavier</p>
+          <p class="paragraphe">Site réalisé par Zakaria, Jennifer, Ilya et Xavier</p>
       </div>
     </div>
 </div>

@@ -7,7 +7,7 @@ body, html, header {
   padding: 0;
 }
 body{
-  background:#f7f1e3;
+  background:#fff;
 }
 
 
@@ -54,7 +54,11 @@ animation: bounce 0.7s ease infinite}*/
      50%  {top: 86px;}
      to   {top: 106px;}
 }
+p.para{
+  font-size: 20px;
+line-height: 1.5;
 
+}
 #section-first {
   text-align: center;
   display: table;
@@ -85,7 +89,7 @@ font-size: 20px;
   display: table;
   width: 100%;
   height: 100vh;
-
+  
 }
 
 

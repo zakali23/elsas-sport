@@ -15,6 +15,7 @@
 
   <!-- Custom styles for this template -->
   <link href="css/style-jennifer.css" rel="stylesheet">
+    <link href="css/style-footer.css" rel="stylesheet">
 </head>
 
 <body>
@@ -180,12 +181,8 @@
         </div>
 </div>
 
-        <div class="espace">
-        </div>
+      
 
-<!--     __________FOOTER____________
-<?php include"footer.php";
-?> -->
 
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
