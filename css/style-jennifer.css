@@ -1,0 +1,81 @@
+* {
+  font-family: 'Raleway';
+}
+
+.navbar-default{
+  background-color: #191919;
+  color: red;
+  height: 60px;
+
+}
+
+.active a{
+  background-color: red;
+  height: 60px;
+}
+
+.carousel img{
+  height: 100vh;
+}
+
+.espace {
+  width: 100vw;
+  height: 10vh;
+}
+
+.title {
+  text-align: center;
+  font-family: Raleway;
+}
+
+
+.carousel-caption h1{
+  font-size: 2.5em;
+  font-family: Raleway;
+  padding-bottom: 100px;
+}
+
+@media screen and (max-width: 500px;){
+  .carousel-caption h1{
+    font-size: 2em;
+    font-family: Raleway;
+    padding-top: 10px;
+  }
+
+}
+
+.h1 {
+  font-family: Raleway;
+}
+
+.h3 {
+  text-align: center;;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+.texte{
+  width: 70vw;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.2em;
+  text-align: justify;
+  line-height: 1.8;
+}
+
+.type_sport{
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.2em;
+  text-align: justify;
+  line-height: 1.8;
+}
+
+.sous_titre {
+  text-align: center;
+}
+
+.thumbnail {
+  border: 0px;
+}
