@@ -11,10 +11,10 @@
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">
-        <li><a href="index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Accueil</a></li>
-        <li><a href="activites.html"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span> Activités</a></li>
-        <li><a href="actualites.html"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Actualités</a></li>
-        <li><a href="contact.html"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Contact</a></li>
+        <li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span> Accueil</a></li>
+        <li><a href="activites.php"><span class="glyphicon glyphicon-bell" aria-hidden="true"></span> Activités</a></li>
+        <li><a href="actualites.php"><span class="glyphicon glyphicon-calendar" aria-hidden="true"></span> Actualités</a></li>
+        <li><a href="contact.php"><span class="glyphicon glyphicon-earphone" aria-hidden="true"></span> Contact</a></li>
       </ul>
     </div>
   </div>

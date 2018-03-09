@@ -17,7 +17,8 @@
 
 
   <!-- Custom styles for this template -->
-  <link href="css/style.css" rel="stylesheet">
+  <link href="css/accueil.css" rel="stylesheet">
+  <link href="css/header.css" rel="stylesheet">
 </head>
 
 <body>
@@ -158,7 +159,6 @@
           <script>
           window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')
           </script>
-
           <script src="js/midnight.jquery.min.js"></script>
           <script>
           $('.scrollTo').click(function() {
