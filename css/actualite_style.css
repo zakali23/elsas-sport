@@ -1,3 +1,25 @@
-h1 {
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+h1
+{
+  text-align: center;
+}
+
+body
+{
+font-family: 'Raleway', sans-serif;
+}
+
+.thumbnail
+{
+  text-align: center;
+}
+
+#myModal
+{
+  text-align: center;
+}
+.modal-footer
+{
   text-align: center;
 }
