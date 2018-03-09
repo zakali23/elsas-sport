@@ -13,18 +13,18 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
   <!-- Optional theme -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-
-
+  
   <!-- Custom styles for this template -->
   <link href="css/accueil.css" rel="stylesheet">
   <link href="css/header.css" rel="stylesheet">
+  <link href="css/style-footer.css" rel="stylesheet">
 </head>
 
 <body>
-  <header>
-    <?php
-    include 'header.php'; ?>
+  <?php
+  include 'header.php'; ?>
+<header>
+
 
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <!-- Indicators -->
@@ -38,7 +38,7 @@
           <img class="first-slide" src="img/3.jpg" alt="First slide">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Example headline.</h1>
+              <h1>Example Slogan</h1>
 
               <p><a class="scrollTo" href="#section-first"> <span class="glyphicon glyphicon-chevron-down " aria-hidden="true"> </a></p>
               </div>
@@ -48,7 +48,7 @@
             <img class="second-slide" src="img/1.jpg" alt="Second slide">
             <div class="container">
               <div class="carousel-caption">
-                <h1>Another example headline.</h1>
+                <h1>Another Example Slogan </h1>
                 <p><a class="scrollTo" href="#section-first"> <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"> </a></p>
                 </div>
               </div>
@@ -57,7 +57,7 @@
               <img class="third-slide" src="img/2.jpg" alt="Third slide">
               <div class="container">
                 <div class="carousel-caption">
-                  <h1>One more for good measure.</h1>
+                  <h1>Another Example Slogan</h1>
 
                   <p><a class="scrollTo" href="#section-first"> <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"> </a></p>
                   </div>
@@ -72,7 +72,8 @@
               <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
               <span class="sr-only">Next</span>
             </a>
-          </div>
+          </div
+          </header>
           <!-- /.carousel -->
           <section class="section1" data-midnight="dark" >
             <div id="section-first" class="container">
@@ -152,8 +153,9 @@
                 </div>
               </div>
             </section>
+          <?php
+        include 'footer.php'; ?>
 
-          </header>
           <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
           <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
           <script>
@@ -180,8 +182,6 @@ return false;
             $('nav').midnight();
           });
           </script>
-
-
         </body>
 
         </html>

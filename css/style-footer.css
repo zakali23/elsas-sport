@@ -1,12 +1,16 @@
-footer {
+footer{
+  background-color: #1A1A1A;
+
+}
+footer .row {
+  padding: 10px;
 background-color: #1A1A1A;
 color: #898989;
-font-size: 2vw;
-height: 50px;
+
 }
 
 footer img {
-width: 3vw;
+width: 2vw;
 max-height: 2hw;
 }
 
@@ -16,4 +20,8 @@ text-align: center;
 
 iframe {
 border: none;
+}
+p{
+text-align: center;
+font-size: 18px;
 }

@@ -6,12 +6,7 @@ header {
   background-position: center;
   background-size: cover;
 }
-h1, h2 {
-  font-family: 'Poppins', sans-serif;
-}
-p{
-  font-family: 'PT Sans Narrow', sans-serif;
-}
+
 /* Menu  */
 
 nav.navbar.navbar-inverse.navbar-fixed-top {
