@@ -109,7 +109,7 @@
 <!-- ____________IMAGES__________ -->
 
 
-
+<!-- ________Colonne 1 -->
 <div class="row">
         <div class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-1">
             <div class="thumbnail texte-thumbnails type_sport">
@@ -140,12 +140,50 @@
     </div>
 
 
-<!-- <div class="container-fluid">
-  <div class="col-sm-6 col-md-4 class="img-rounded"">
-    <img src="img/fitness2.jpg" alt="image fitness" />
-  </div>
+    <div class="espace">
+    </div>
 
-</div>-->
+<div class="col-xs-12 col-sm-10 col-sm-offset-1" >
+    <!-- ________Colonne 2 -->
+    <div class="row">
+            <div class="col-sm-5">
+                <div class="thumbnail texte-thumbnails type_sport">
+                    <img src="img/sport-salle.jpg" alt="sport-en-salle">
+                    <div class="caption">
+                        <h3 class="sous_titre">Sport en salle</h3>
+                        <br/>
+                        <p>Vous hésitez encore à franchir la porte du club de gym près de chez vous. Ce type de club est-il vraiment fait pour vous?
+                        <br/>
+                        Pour les personnes qui ont besoin de se motiver régulièrement, la salle de sport offre une bonne solution dans la mesure où de très nombreuses activités sont proposées !
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-sm-5 col-sm-offset-1 ">
+                <div class="thumbnail texte-thumbnails type_sport">
+                    <img src="img/sport-nature.jpg" alt="chaussette-harry-potter">
+                    <div class="caption">
+                        <h3 class="sous_titre">Sports Individuels</h3>
+                        <br/>
+                        <p>Course à pied, Vélo, Natation, … : à priori pas besoin de compagnons pour faire tout ça mais avouez que c'est quand même plus sympa non ?
+                        <br/>
+                        À Elsas'sport vous trouverez forcément d'autres motivés pour pédaler, nager, courir, ou tout simplement transpirer !
+                        </p>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+</div>
+
+        <div class="espace">
+        </div>
+
+<!--     __________FOOTER____________
+<?php include"footer.php";
+?> -->
+
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
