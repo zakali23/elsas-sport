@@ -15,7 +15,6 @@
   <!-- Optional theme -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
 
-
   <!-- Custom styles for this template -->
   <link href="css/actualite_style.css" rel="stylesheet">
 </head>
@@ -76,7 +75,7 @@
             <div class="caption">
               <h3>Sortie trail au Sainte-Odile</h3>
               <p>Mardi 4 Mars à 15 heures</p>
-              <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
+              <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
 
     <!-- Modal -->
               <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -84,10 +83,12 @@
                   <div class="modal-content">
                     <div class="modal-header">
                       <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                      <h4 class="modal-title" id="myModalLabel">Modal title</h4>
+                      <h4 class="modal-title" id="myModalLabel">Sortie trail au Sainte-Odile</h4>
                     </div>
                     <div class="modal-body">
-                      ...
+                      <p>
+                        Nous organisons une marche rapide du côté du Mont Saint-Odile. Une bonne condition physique est requise. Toutefois, nous acceptons les gens ayant un faible niveau. Le départ est prévu à 15h30. Aussi, et pour le respect des autres participants, nous vous prions d'être présents au moins un quart d'heure avant ce dernier.
+                      </p>
                     </div>
                     <div class="modal-footer">
                       <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
@@ -381,7 +382,7 @@
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
-              <h3>SDes motivés pour courir les jeudis soirs à Lingolsheim ?</h3>
+              <h3> Courir à Lingolsheim ?</h3>
               <p>Tous les jeudis</p>
               <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
 
@@ -411,7 +412,7 @@
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
-              <h3>Cherche un binôme pour escalade</h3>
+              <h3>Cherche binôme escalade</h3>
               <p>Les Mardi et Mercredi</p>
               <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
 
@@ -443,7 +444,7 @@
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
-              <h3>Cherche coach Yoga</h3>
+              <h3>Cherche VTTiste à Buhl</h3>
               <p>Dimanche 28 Mars / 13h30</p>
               <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
 
@@ -503,7 +504,7 @@
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
-              <h3>Cherche un binôme pour escalade</h3>
+              <h3>Cherche un binôme escalade</h3>
               <p>Les Mardi et Mercredi</p>
               <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
 
