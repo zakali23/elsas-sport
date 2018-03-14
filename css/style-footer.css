@@ -1,0 +1,24 @@
+footer{
+  background-color: #1A1A1A;
+color: #898989;
+padding: 10px;
+margin: 0;
+
+}
+
+footer img {
+width: 2vw;
+max-height: 2hw;
+}
+
+aside {
+text-align: center;
+}
+
+iframe {
+border: none;
+}
+p.paragraphe{
+text-align: center;
+font-size: 18px;
+}
