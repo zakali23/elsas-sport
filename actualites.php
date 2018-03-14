@@ -73,7 +73,7 @@
     <div class="row">
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="Mont Saint-Odile">
+          <img src="img/StOdille1.jpg" alt="Mont Saint-Odile">
           <div class="caption">
             <h3>Trail au Mont Sainte-Odile</h3>
             <p>Mardi 4 Mars / 15 heures</p>
@@ -104,7 +104,7 @@
 
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/Foot2.jpg" alt="...">
           <div class="caption">
             <h3>Foot à la Meinau</h3>
             <p>Dimanche 17 Mars / 14h</p>
@@ -115,14 +115,14 @@
               <div class="modal-dialog" role="document">
                 <div class="modal-content">
                   <div class="modal-header">
-                    <button type="button" class="close1" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
                     <h4 class="modal-title" id="myModalLabel">Foot à la Meinau</h4>
                   </div>
                   <div class="modal-body">
                     Nous organisons un match amical au stade de la Meinau. Notre groupe de 10 amis de toujours vous accueillera avec grand plaisir pour y assister. Le match est suivi d'un repas autour de tarte flambées et autres plats alsaciens.
                   </div>
                   <div class="modal-footer">
-                    <button type="button" class="btn1 btn-default" data-dismiss="modal">Fermer</button>
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
                   </div>
                 </div>
               </div>
@@ -133,7 +133,7 @@
 
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/Esc1.jpg" alt="...">
           <div class="caption">
             <h3>Escalade Roc en Stock</h3>
             <p>Vendredi 2 Mars / 19h15</p>
@@ -165,7 +165,7 @@
     <div class="row">
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/muscu1.jpg" alt="...">
           <div class="caption">
             <h3>Muscu au Club du Parc</h3>
             <p>Mardi 24 Mars / 15h</p>
@@ -195,7 +195,7 @@
 
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/aperun1.jpg" alt="...">
           <div class="caption">
             <h3>Apérun à l'Orangerie</h3>
             <p>Dimanche 17 Mars / 14h</p>
@@ -225,7 +225,7 @@
 
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/ski1.jpg" alt="...">
           <div class="caption">
             <h3>Skating / Champ du Feu</h3>
             <p>Samedi 1 Avril / 9h30</p>
@@ -258,7 +258,7 @@
     <div class="row">
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/Foot1.jpg" alt="...">
           <div class="caption">
             <h3>Cherche 2 joueurs de foot</h3>
             <p>Dimanche 28 Mars / 13h30</p>
@@ -288,7 +288,7 @@
 
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/running1.jpg" alt="...">
           <div class="caption">
             <h3>Courir à Lingolsheim ?</h3>
             <p>Tous les jeudis</p>
@@ -318,7 +318,7 @@
 
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/Esc2.jpg" alt="...">
           <div class="caption">
             <h3>Cherche binôme escalade</h3>
             <p>Les Mardi et Mercredi</p>
@@ -350,7 +350,7 @@
     <div class="row">
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/bike1.jpg" alt="...">
           <div class="caption">
             <h3>Cherche VTTiste à Buhl</h3>
             <p>Dimanche 28 Mars / 13h30</p>
@@ -380,7 +380,7 @@
 
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/yog1.jpg" alt="...">
           <div class="caption">
             <h3>Cherche coach Yoga</h3>
             <p>Tous les jeudis</p>
@@ -410,7 +410,7 @@
 
       <div class="col-lg-4">
         <div class="thumbnail">
-          <img src="img/StOdille.jpg" alt="...">
+          <img src="img/escalade-st-jean1.jpg" alt="...">
           <div class="caption">
             <h3>Cherche un binôme escalade</h3>
             <p>Les Mardi et Mercredi</p>
