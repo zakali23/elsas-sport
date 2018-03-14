@@ -13,11 +13,9 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
   <!-- Optional theme -->
-<<<<<<< HEAD
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
-=======
+
 <!--  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
->>>>>>> 9682eac0daf6df339827bcb908c29da24d466638
+
 
   <!-- Custom styles for this template -->
   <link href="css/actualite_style.css" rel="stylesheet">
@@ -43,7 +41,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="img/gym_room2.jpg" alt="...">
+      <img src="img/gym_room-2.jpg" alt="...">
       <div class="carousel-caption">
         <h2>Tenez-vous au jus!</h2>
       </div>
@@ -57,11 +55,10 @@
     <div class="item">
       <img src="img/running2.jpg" alt="...">
       <div class="carousel-caption">
-<<<<<<< HEAD
-        <h2>Tenez-vous au jus!</h2>
-=======
 
->>>>>>> 9682eac0daf6df339827bcb908c29da24d466638
+        <h2>Tenez-vous au jus!</h2>
+
+
       </div>
     </div>
   </div>
@@ -89,7 +86,7 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/StOdille1.jpg" alt="...">
             <div class="caption">
               <h3>Sortie trail au Sainte-Odile</h3>
               <p>Mardi 4 Mars à 15 heures</p>
@@ -121,7 +118,7 @@
 
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/Foot2.jpg" alt="...">
             <div class="caption">
               <h3>Foot à la Meinau</h3>
               <p>Dimanche 17 Mars / 14h</p>
@@ -151,7 +148,7 @@
 
           <div class="col-sm-4">
             <div class="thumbnail">
-              <img src="img/StOdille.jpg" alt="...">
+              <img src="img/Esc2.jpg" alt="...">
               <div class="caption">
                 <h3>Escalade Roc en Stock</h3>
                 <p>Vendredi 2 Mars / 19h15</p>
@@ -183,7 +180,7 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/muscu1.jpg" alt="...">
             <div class="caption">
               <h3>Muscu -Club du Parc</h3>
               <p>Mardi 24 Mars / 15h</p>
@@ -213,7 +210,7 @@
 
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/aperun1.jpg" alt="...">
             <div class="caption">
               <h3>Apé-Run à l'Orangerie</h3>
               <p>Dimanche 17 Mars / 14h</p>
@@ -243,7 +240,7 @@
 
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/ski1.jpg" alt="...">
             <div class="caption">
               <h3>Skating / Champ du Feu</h3>
               <p>Samedi 1 Avril / 9h30</p>
@@ -272,103 +269,12 @@
         </div>
       </div>
 
-      <div class="row">
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
-            <div class="caption">
-              <h3>Sortie trail au Sainte-Odile</h3>
-              <p>Mardi 4 Mars à 15 heures</p>
-              <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
-
-      <!-- Modal -->
-              <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                <div class="modal-dialog" role="document">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                      <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-                    </div>
-                    <div class="modal-body">
-                        ...
-                    </div>
-                    <div class="modal-footer">
-                      <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
-            <div class="caption">
-              <h3>Sortie trail au Sainte-Odile</h3>
-              <p>Mardi 4 Mars à 15 heures</p>
-              <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
-
-      <!-- Modal -->
-              <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                <div class="modal-dialog" role="document">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                      <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-                    </div>
-                    <div class="modal-body">
-                        ...
-                    </div>
-                    <div class="modal-footer">
-                      <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-
-        <div class="col-sm-4">
-          <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
-            <div class="caption">
-              <h3>Sortie trail au Sainte-Odile</h3>
-              <p>Mardi 4 Mars à 15 heures</p>
-              <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
-
-      <!-- Modal -->
-              <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
-                <div class="modal-dialog" role="document">
-                  <div class="modal-content">
-                    <div class="modal-header">
-                      <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-                      <h4 class="modal-title" id="myModalLabel">Modal title</h4>
-                    </div>
-                    <div class="modal-body">
-                        ...
-                    </div>
-                    <div class="modal-footer">
-                      <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
-
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
 
       <h1>Les petits annonces</h1>
       <div class="row">
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/Foot1.jpg" alt="...">
             <div class="caption">
               <h3>Cherche 2 joueurs de foot</h3>
               <p>Dimanche 28 Mars / 13h30</p>
@@ -398,7 +304,7 @@
 
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/running1.jpg" alt="...">
             <div class="caption">
               <h3> Courir à Lingolsheim ?</h3>
               <p>Tous les jeudis</p>
@@ -428,7 +334,7 @@
 
         <div class="col-lg-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/escalade-st-jean1.jpg" alt="...">
             <div class="caption">
               <h3>Cherche binôme escalade</h3>
               <p>Les Mardi et Mercredi</p>
@@ -460,7 +366,7 @@
       <div class="row">
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/bike1.jpg" alt="...">
             <div class="caption">
               <h3>Cherche VTTiste à Buhl</h3>
               <p>Dimanche 28 Mars / 13h30</p>
@@ -490,7 +396,7 @@
 
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/yog1.jpg" alt="...">
             <div class="caption">
               <h3>Cherche coach Yoga</h3>
               <p>Tous les jeudis</p>
@@ -520,7 +426,7 @@
 
         <div class="col-sm-4">
           <div class="thumbnail">
-            <img src="img/StOdille.jpg" alt="...">
+            <img src="img/Esc1.jpg" alt="...">
             <div class="caption">
               <h3>Cherche un binôme escalade</h3>
               <p>Les Mardi et Mercredi</p>
