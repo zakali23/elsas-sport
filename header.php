@@ -7,7 +7,7 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
-      <a href="#performances"> <img src="img/logo-2.png" height="57" width="auto" alt="Responsive image" ></a>
+      <a href="#performances"> <img src="img/logo.png" height="57" width="auto" alt="Responsive image" ></a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav navbar-right">

@@ -1,0 +1,12 @@
+nav.navbar.navbar-default{
+  background-color: #191919;
+  color: red;
+  margin: 0;
+  border-radius: : 0px;
+
+}
+
+.active a{
+  background-color: red;
+  height: 60px;
+}

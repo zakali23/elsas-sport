@@ -17,8 +17,8 @@
   
   <!-- Custom styles for this template -->
   <link href="css/actualite_style.css" rel="stylesheet">
-</head>
-
+  <link href="css/header-jennifer.css" rel="stylesheet">
+    <link href="css/style-footer.css" rel="stylesheet">
 <body>
   <!-- carousel -->
   <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
