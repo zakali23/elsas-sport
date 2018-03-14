@@ -101,10 +101,10 @@
           </header>
           <!-- /.carousel -->
           <section class="section1" data-midnight="dark" >
-            <div id="section-first" class="container">
+            <div id="section-first" class="container-fluid">
 
               <!-- Three columns of text below the carousel -->
-              <div style="text-align:center;" class="row">
+              <div style="text-align: center;margin-top: 10px;"class="row">
               <div class="col-lg-4">
                 <img class="img-circle" src="img/4.jpg" alt="Generic placeholder image" width="200" height="200">
                 <h2>Histoire</h2>
@@ -125,12 +125,12 @@
                   <p><a class="btn btn-default" href="#section-final" role="button">Détails &raquo;</a></p>
                 </div><!-- /.col-lg-4 -->
 
-              <p><a class="scrollTo" href="#section-second"> <span class="glyphicon glyphicon-chevron-down" style="color:black;border: 1px solid #534f4f;" aria-hidden="true"> </a></p>
+
             </section>
           <!--section histoire -->
 
           <section class="section2" data-midnight="dark" >
-            <div id="section-second" class="container">
+            <div id="section-second" class="container-fluid">
               <div class="col-md-6 col-md-offset-3">
                <img src="img/4.jpg" class="img-responsive" alt="Responsive image">
                 <h1>Notre histoire</h1>
@@ -141,13 +141,13 @@ Puis au final, les sorties se sont diversifiées : foot à la Meinau, sortie vé
 
 C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motivés et au final portée par plus de 150 membres exaltés !
                 </p>
-                <p><a class="scrollTo" href="#section-final"> <span class="glyphicon glyphicon-chevron-down" style="color:black;border: 1px solid #534f4f;" aria-hidden="true"> </a></p>
+
               </div>
             </div>
           </section>
             <!--section Motivation -->
             <section class="section3" data-midnight="dark" >
-              <div id="section-third" class="container">
+              <div id="section-third" class="container-fluid">
                 <div class="col-md-6 col-md-offset-3">
                  <img src="img/5.jpg" class="img-responsive" alt="Responsive image">
                   <h1>Motivation</h1>
@@ -157,14 +157,14 @@ C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motiv
                     Vous avez besoin d’un coach qui vous encourage à la fin de chaque longueur de piscine ?
                     À côté de chez vous se trouve probablement une personne qui se pose la même question ! C’est le moment de la rencontrer et de tisser de nouveaux liens !
                   </p>
-                  <p><a class="scrollTo" href="#section-final"> <span class="glyphicon glyphicon-chevron-down" style="color:black;border: 1px solid #534f4f;" aria-hidden="true"> </a></p>
+
                 </div>
               </div>
             </section>
 
             <!--section Notre but -->
             <section class="section4" data-midnight="dark" >
-              <div id="section-final" class="container">
+              <div id="section-final" class="container-fluid">
                 <div class="col-md-6 col-md-offset-3">
                   <img src="img/6.jpg" class="img-responsive"  alt="Responsive image">
                   <h1>Notre but</h1>
