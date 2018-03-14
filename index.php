@@ -14,68 +14,90 @@
 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
-  <!-- Optional theme -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+  <!-- Optional theme
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">-->
 
 
   <!-- Custom styles for this template -->
   <link href="css/accueil.css" rel="stylesheet">
-  <link href="css/header.css" rel="stylesheet">
+  <link href="css/header-jennifer.css" rel="stylesheet">
   <link href="css/style-footer.css" rel="stylesheet">
 </head>
 
 <body>
   <header>
-    <?php
-    include 'header.php'; ?>
+    <nav class="navbar navbar-default">
+<div class="container-fluid">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+  <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+    <span class="sr-only">Toggle navigation</span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+    <span class="icon-bar"></span>
+  </button>
+  <div><a  href="#">
+    <img src="img/logo-blanc.png" alt="logo" height="50" width="auto" />
+  </a>
+  </div>
+</div>
 
-    <div id="myCarousel" class="carousel slide" data-ride="carousel">
-      <!-- Indicators -->
-      <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner" role="listbox">
-        <div class="item active">
-          <img class="first-slide" src="img/2.jpg" alt="First slide">
-          <div class="container">
-            <div class="carousel-caption">
-              <h1>Example Slogan.</h1>
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+  <ul class="nav navbar-nav navbar-right">
+    <li  class="active"><a href="index.php">Accueil </a></li>
+    <li><a href="activites.php">Activités <span class="sr-only">(current)</span></a></li>
+    <li><a href="actualites.php">Actualités</a></li>
+    <li><a href="contact.php" >Contact </a>
+    </li>
 
-              <p><a class="scrollTo" href="#section-first"> <span class="glyphicon glyphicon-chevron-down " aria-hidden="true"> </a></p>
-              </div>
-            </div>
-        </div>
-          <div class="item">
-            <img class="second-slide" src="img/1.jpg" alt="Second slide">
-            <div class="container">
-              <div class="carousel-caption">
-                <h1>Another example Slogan.</h1>
-                <p><a class="scrollTo" href="#section-first"> <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"> </a></p>
-                </div>
-              </div>
-            </div>
-            <div class="item">
-              <img class="third-slide" src="img/2.jpg" alt="Third slide">
-              <div class="container">
-                <div class="carousel-caption">
-                  <h1>Another example Slogan.</h1>
+  </ul>
 
-                  <p><a class="scrollTo" href="#section-first"> <span class="glyphicon glyphicon-chevron-down" aria-hidden="true"> </a></p>
-                  </div>
-                </div>
-              </div>
-          <div>
-            <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
-              <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
-              <span class="sr-only">Next</span>
-            </a>
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container-fluid -->
+</nav>
+<!--     __________CAROUSEL____________        -->
+
+<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#carousel-example-generic" data-slide-to="0" class="active"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="1"></li>
+    <li data-target="#carousel-example-generic" data-slide-to="2"></li>
+  </ol>
+
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner" role="listbox">
+    <div class="item active">
+      <img src="img/1-2.jpg" alt="...">
+      <div class="carousel-caption">
+        <h1>Ne pédalez plus tout seul !</h1>
       </div>
+    </div>
+    <div class="item">
+      <img src="img/cropped-2.jpg" alt="...">
+      <div class="carousel-caption">
+        <h1>Ne courez plus tout seul !</h1>
+      </div>
+    </div>
+    <div class="item">
+      <img src="img/Fitness3-2.jpg" alt="...">
+      <div class="carousel-caption">
+        <h1>Progressons <strong>ENSEMBLE</strong></h1>
+      </div>
+    </div>
+
+  </div>
+  <!-- Controls -->
+  <a class="left carousel-control" href="#carousel-example-generic" role="button" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#carousel-example-generic" role="button" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
           </header>
           <!-- /.carousel -->
           <section class="section1" data-midnight="dark" >
@@ -91,7 +113,7 @@
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
                 <img class="img-circle" src="img/5.jpg" alt="Generic placeholder image" width="200" height="200">
-                <h2>motivation</h2>
+                <h2>Motivation</h2>
                 <p>Le goût de l'effort, le plaisir de se réunir, de partager …
                   Nos motivations sont diverses mais nous poussent toutes vers l'avant !</p>
                   <p><a class="btn btn-default" href="#section-Third" role="button">Détails &raquo;</a></p>
@@ -178,13 +200,7 @@ if ($(getElem).length) {
 return false;
 });
           </script>
-          <script>
-          // Start midnight
-          $(document).ready(function(){
-            // Change this to the correct selector.
-            $('nav').midnight();
-          });
-          </script>
+
 
 
         </body>
