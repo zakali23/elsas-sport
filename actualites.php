@@ -13,13 +13,20 @@
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
   <!-- Optional theme -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+<!--  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous"> -->
 
   <!-- Custom styles for this template -->
   <link href="css/actualite_style.css" rel="stylesheet">
+  <link href="css/style-jennifer.css" rel="stylesheet">
+
 </head>
 
 <body>
+
+  <!--     __________HEADER____________        -->
+  <?php include"header-2.php";
+  ?>
+
 <!-- carousel -->
   <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <!-- Indicators -->
@@ -32,21 +39,21 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
     <div class="item active">
-      <img src="img/gym_room.jpg" alt="...">
+      <img src="img/gym_room2.jpg" alt="...">
       <div class="carousel-caption">
         <h2>Tenez-vous au jus!</h2>
       </div>
     </div>
     <div class="item">
-      <img src="img/cycling.jpg" alt="...">
+      <img src="img/cycling2.jpg" alt="...">
       <div class="carousel-caption">
 
       </div>
     </div>
     <div class="item">
-      <img src="img/running.jpg" alt="...">
+      <img src="img/running2.jpg" alt="...">
       <div class="carousel-caption">
-        ...
+
       </div>
     </div>
   </div>
@@ -63,13 +70,16 @@
   </a>
 </div>
 
+<!-- espace -->
+<div class="espace">
+</div>
 
 
 <!-- modal windows -->
     <div class="container">
       <h1>Les Évènements</h1>
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -101,7 +111,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -131,7 +141,7 @@
           </div>
         </div>
 
-          <div class="col-lg-4">
+          <div class="col-sm-4">
             <div class="thumbnail">
               <img src="img/StOdille.jpg" alt="...">
               <div class="caption">
@@ -163,7 +173,7 @@
       </div>
 
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -193,7 +203,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -223,7 +233,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -255,7 +265,7 @@
       </div>
 
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -285,7 +295,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -315,7 +325,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -348,7 +358,7 @@
 
       <h1>Les petits annonces</h1>
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -378,7 +388,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -440,7 +450,7 @@
       </div>
 
       <div class="row">
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -470,7 +480,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
@@ -500,7 +510,7 @@
           </div>
         </div>
 
-        <div class="col-lg-4">
+        <div class="col-sm-4">
           <div class="thumbnail">
             <img src="img/StOdille.jpg" alt="...">
             <div class="caption">
