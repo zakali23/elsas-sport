@@ -1,19 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-
 * {
   font-family: 'Raleway';
 }
 
-.navbar-default{
-  background-color: #191919;
-  height: 60px;
 
-}
-
-.active a{
-  background-color: red;
-  height: 60px;
-}
 
 .carousel img{
   height: 100vh;
