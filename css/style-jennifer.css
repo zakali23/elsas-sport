@@ -80,3 +80,12 @@
 .thumbnail {
   border: 0px;
 }
+
+. ul li a {
+  color: blue;
+}
+
+.conteneur1{
+  position: relative;
+  background-color: red;
+}

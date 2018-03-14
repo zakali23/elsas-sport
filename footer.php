@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style/style-footer.css">
 <footer class="footer container-fluid">
   <div class="row">
         <div class="col-xs-1 col-xs-offset-1">

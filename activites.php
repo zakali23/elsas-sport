@@ -16,6 +16,7 @@
 
   <!-- Custom styles for this template -->
   <link href="css/style-jennifer.css" rel="stylesheet">
+  <link rel="stylesheet" href="style/style-footer.css">
 </head>
 
 <body>
@@ -102,16 +103,12 @@
 
 <!-- __________________ -->
 
-<!-- espace -->
-<div class="espace">
-</div>
+<br /><br /><br />
 
 <!-- Titre -->
 <h1 class="title">Découvrez toutes nos Activités !</h1>
 
-<!-- espace -->
-<div class="espace">
-</div>
+<br /><br /><br />
 
 
 <!-- Texte -->
@@ -130,54 +127,50 @@
     </p>
 </div>
 
-<div class="espace">
-</div>
-
-<div class="espace">
-</div>
+<br /><br /><br /><br />
 
 
 <!-- ____________IMAGES__________ -->
 
-<div class="col-xs-12 col-sm-11 col-sm-offset-1" >
+<div class="col-xs-12 col-sm-11 col-sm-offset-1 conteneur1" >
 <!-- ________Colonne 1 -->
-<div class="row">
-        <div class="col-sm-5">
-            <div class="thumbnail texte-thumbnails type_sport">
-                <img src="img/sport-collectif-2.jpg" alt="sport-en-salle">
-                <div class="caption">
-                    <h3 class="sous_titre">Sports Collectifs</h3>
-                    <br/>
-                    <p>Football, Basket, Badminton, … : autant de sports où il faut trouver d'autres motivés !
+  <div class="row">
+          <div class="col-sm-5">
+              <div class="thumbnail texte-thumbnails type_sport">
+                  <img src="img/sport-collectif-2.jpg" alt="sport-en-salle">
+                  <div class="caption">
+                      <h3 class="sous_titre">Sports Collectifs</h3>
                       <br/>
-                      Comme il est souvent difficile de réunir une équipe, à Elsas'Sport il est possible de trouver des nombreux évènements à rejoindre ou d'en proposer un !
-                    </p>
-                </div>
-            </div>
-        </div>
+                      <p>Football, Basket, Badminton, … : autant de sports où il faut trouver d'autres motivés !
+                        <br/>
+                        Comme il est souvent difficile de réunir une équipe, à Elsas'Sport il est possible de trouver des nombreux évènements à rejoindre ou d'en proposer un !
+                      </p>
+                  </div>
+              </div>
+          </div>
 
-        <div class="col-sm-5 col-sm-offset-1">
-            <div class="thumbnail texte-thumbnails type_sport">
-                <img src="img/sport-nature.jpg" alt="chaussette-harry-potter">
-                <div class="caption">
-                    <h3 class="sous_titre">Sport Nature</h3>
-                    <br/>
-                    <p>Randonnée, Trail, Escalade en falaise, … : autant de sports qui se pratiquent en plein air !
-                    <br/>
-                    En Alsace on a la chance d'avoir des terrains variés : plaine rhénane, Piémont des Vosges, début des Vosges, … : vous trouverez forcément une sortie qui vous botte !</p>
-                </div>
-            </div>
-        </div>
+          <div class="col-sm-5 col-sm-offset-1">
+              <div class="thumbnail texte-thumbnails type_sport">
+                  <img src="img/sport-nature.jpg" alt="chaussette-harry-potter">
+                  <div class="caption">
+                      <h3 class="sous_titre">Sport Nature</h3>
+                      <br/>
+                      <p>Randonnée, Trail, Escalade en falaise, … : autant de sports qui se pratiquent en plein air !
+                      <br/>
+                      En Alsace on a la chance d'avoir des terrains variés : plaine rhénane, Piémont des Vosges, début des Vosges, … : vous trouverez forcément une sortie qui vous botte !</p>
+                  </div>
+              </div>
+          </div>
+
+      </div>
 
     </div>
-</div>
+  </div>
 
-    <div class="espace">
-    </div>
-    <div class="espace">
-    </div>
 
-<div class="col-xs-12 col-sm-11 col-sm-offset-1" >
+    <br /><br /><br /><br />
+
+<div class="col-xs-12 col-sm-11 col-sm-offset-1 conteneur1" >
     <!-- ________Colonne 2 -->
     <div class="row">
             <div class="col-sm-5">
@@ -210,13 +203,15 @@
 
         </div>
 </div>
+</div>
 
-        <div class="espace">
-        </div>
+<br /><br /><br /><br />
 
-<!--     __________FOOTER____________
+<div style="background-color: red; height: 10px"></div>
+
+<!--     __________FOOTER____________ -->
 <?php include"footer.php";
-?> -->
+?>
 
 
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
