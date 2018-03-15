@@ -69,3 +69,8 @@
 .thumbnail {
   border: 0px;
 }
+
+.conteneur1{
+  position: relative;
+  background-color: red;
+}

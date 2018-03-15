@@ -137,57 +137,93 @@
   <!-- ____________IMAGES__________ -->
 
   <div class="col-xs-12 col-sm-11 col-sm-offset-1" >
-  <!-- ________Colonne 1 -->
-  <div class="row"><!-- __row -->
-          <div class="col-sm-5"><!-- __col -->
-              <div class="thumbnail texte-thumbnails type_sport"><!-- __thumb -->
-                  <img src="img/sport-collectif-2.jpg" alt="sport-en-salle">
-                  <div class="caption"><!-- __caption -->
-                      <h3 class="sous_titre">Sports Collectifs</h3>
-                      <br/>
-                      <p>Football, Basket, Badminton, … : autant de sports où il faut trouver d'autres motivés !
+    <!-- ________Colonne 1 -->
+    <div class="row"><!-- __row -->
+            <div class="col-sm-5"><!-- __col -->
+                <div class="thumbnail texte-thumbnails type_sport"><!-- __thumb -->
+                    <img src="img/sport-collectif-2.jpg" alt="sport-en-salle">
+                    <div class="caption"><!-- __caption -->
+                        <h3 class="sous_titre">Sports Collectifs</h3>
                         <br/>
-                        Comme il est souvent difficile de réunir une équipe, à Elsas'Sport il est possible de trouver des nombreux évènements à rejoindre ou d'en proposer un !
-                      </p>
-                  </div><!-- __caption -->
-              </div><!-- __thumb -->
-          </div><!-- __col -->
+                        <p>Football, Basket, Badminton, … : autant de sports où il faut trouver d'autres motivés !
+                          <br/>
+                          Comme il est souvent difficile de réunir une équipe, à Elsas'Sport il est possible de trouver des nombreux évènements à rejoindre ou d'en proposer un !
+                        </p>
+                    </div><!-- __caption -->
+                </div><!-- __thumb -->
+            </div><!-- __col -->
 
-          <div class="col-sm-5 col-sm-offset-1">
+            <div class="col-sm-5 col-sm-offset-1">
+                <div class="thumbnail texte-thumbnails type_sport">
+                    <img src="img/sport-nature.jpg" alt="chaussette-harry-potter">
+                    <div class="caption">
+                        <h3 class="sous_titre">Sport Nature</h3>
+                        <br/>
+                        <p>Randonnée, Trail, Escalade en falaise, … : autant de sports qui se pratiquent en plein air !
+                        <br/>
+                        En Alsace on a la chance d'avoir des terrains variés : plaine rhénane, Piémont des Vosges, début des Vosges, … : vous trouverez forcément une sortie qui vous botte !</p>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+<!-- essai1 -->
+
+  </div>
+
+  <!-- essai2 -->
+  <div class="col-xs-12 col-sm-11 col-sm-offset-1" >
+    <!-- ________Colonne 1 -->
+    <div class="row"><!-- __row -->
+            <div class="col-sm-5"><!-- __col -->
               <div class="thumbnail texte-thumbnails type_sport">
-                  <img src="img/sport-nature.jpg" alt="chaussette-harry-potter">
+                  <img src="img/sport-salle.jpg" alt="sport-en-salle">
                   <div class="caption">
-                      <h3 class="sous_titre">Sport Nature</h3>
+                      <h3 class="sous_titre">Sport en salle</h3>
                       <br/>
-                      <p>Randonnée, Trail, Escalade en falaise, … : autant de sports qui se pratiquent en plein air !
+                      <p>Vous hésitez encore à franchir la porte du club de gym près de chez vous. Ce type de club est-il vraiment fait pour vous?
                       <br/>
-                      En Alsace on a la chance d'avoir des terrains variés : plaine rhénane, Piémont des Vosges, début des Vosges, … : vous trouverez forcément une sortie qui vous botte !</p>
+                      Pour les personnes qui ont besoin de se motiver régulièrement, la salle de sport offre une bonne solution dans la mesure où de très nombreuses activités sont proposées !
+                      </p>
                   </div>
               </div>
-          </div>
+            </div><!-- __col -->
 
-      </div>
+            <div class="col-sm-5 col-sm-offset-1">
+                <div class="thumbnail texte-thumbnails type_sport">
+                  <img src="img/sport-individuel-2.jpg" alt="chaussette-harry-potter">
+                  <div class="caption">
+                      <h3 class="sous_titre">Sports Individuels</h3>
+                      <br/>
+                      <p>Course à pied, Vélo, Natation, … : à priori pas besoin de compagnons pour faire tout ça mais avouez que c'est quand même plus sympa non ?
+                      <br/>
+                      À Elsas'sport vous trouverez forcément d'autres motivés pour pédaler, nager, courir, ou tout simplement transpirer !
+                      </p>
+                  </div>
+                </div>
+            </div>
 
 
+        </div>
+<!-- essai1 -->
+
+  </div>
+
+<br /><br />
+
+
+
+
+  <!-- ________Colonne 2 -->
+  <div class="row">
+
+  </div><!-- ________Colonne 2 -->
   </br></br>
 
 
-      <!-- ________Colonne 2 -->
-      <div class="row">
-              <div class="col-sm-5">
-                  <div class="thumbnail texte-thumbnails type_sport">
-                      <img src="img/sport-salle.jpg" alt="sport-en-salle">
-                      <div class="caption">
-                          <h3 class="sous_titre">Sport en salle</h3>
-                          <br/>
-                          <p>Vous hésitez encore à franchir la porte du club de gym près de chez vous. Ce type de club est-il vraiment fait pour vous?
-                          <br/>
-                          Pour les personnes qui ont besoin de se motiver régulièrement, la salle de sport offre une bonne solution dans la mesure où de très nombreuses activités sont proposées !
-                          </p>
-                      </div>
-                  </div>
-              </div>
 
+<<<<<<< HEAD
               <div class="col-sm-5 col-sm-offset-1 ">
                   <div class="thumbnail texte-thumbnails type_sport">
                       <img src="img/sport-individuel-2.jpg" alt="chaussette-harry-potter">
@@ -201,6 +237,9 @@
                       </div>
                   </div>
               </div>
+=======
+
+>>>>>>> 9ece11c79c678eb77fb21ec011e81dc2bd37b9c9
 
           </div><!-- ________1er div -->
 
