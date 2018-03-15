@@ -34,19 +34,19 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="img/gym_room.jpg" alt="...">
+        <img src="img/gym_room-2.jpg" alt="...">
         <div class="carousel-caption">
           <h2>Tenez-vous au courant...</h2>
         </div>
       </div>
       <div class="item">
-        <img src="img/cycling.jpg" alt="...">
+        <img src="img/cycling2.jpg" alt="...">
         <div class="carousel-caption">
           <h2>...de l'actualité...</h2>
         </div>
       </div>
       <div class="item">
-        <img src="img/running.jpg" alt="...">
+        <img src="img/running2.jpg" alt="...">
         <div class="carousel-caption">
           <h2>...dans votre région !</h2>
         </div>
@@ -108,7 +108,7 @@
           <div class="caption">
             <h3>Foot à la Meinau</h3>
             <p>Dimanche 17 Mars / 14h</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal1">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal1">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal1" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -137,7 +137,7 @@
           <div class="caption">
             <h3>Escalade Roc en Stock</h3>
             <p>Vendredi 2 Mars / 19h15</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal2">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal2">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal2" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -169,7 +169,7 @@
           <div class="caption">
             <h3>Muscu au Club du Parc</h3>
             <p>Mardi 24 Mars / 15h</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal3">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal3">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal3" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -199,7 +199,7 @@
           <div class="caption">
             <h3>Apérun à l'Orangerie</h3>
             <p>Dimanche 17 Mars / 14h</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal4">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal4">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal4" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -229,7 +229,7 @@
           <div class="caption">
             <h3>Skating / Champ du Feu</h3>
             <p>Samedi 1 Avril / 9h30</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal5">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal5">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal5" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -262,7 +262,7 @@
           <div class="caption">
             <h3>Cherche 2 joueurs de foot</h3>
             <p>Dimanche 28 Mars / 13h30</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal9">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal9">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal9" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -292,7 +292,7 @@
           <div class="caption">
             <h3>Courir à Lingolsheim ?</h3>
             <p>Tous les jeudis</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal10">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal10">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal10" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -322,7 +322,7 @@
           <div class="caption">
             <h3>Cherche binôme escalade</h3>
             <p>Les Mardi et Mercredi</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal11">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal11">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal11" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -354,7 +354,7 @@
           <div class="caption">
             <h3>Cherche VTTiste à Buhl</h3>
             <p>Dimanche 28 Mars / 13h30</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal12">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal12">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal12" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -384,7 +384,7 @@
           <div class="caption">
             <h3>Cherche coach Yoga</h3>
             <p>Tous les jeudis</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal13">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal13">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal13" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
@@ -414,7 +414,7 @@
           <div class="caption">
             <h3>Cherche un binôme escalade</h3>
             <p>Les Mardi et Mercredi</p>
-            <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal14">En savoir plus</button>
+            <button type="button" class="btn btn-default btn-lg" data-toggle="modal" data-target="#myModal14">En savoir plus</button>
 
             <!-- Modal -->
             <div class="modal fade" id="myModal14" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
