@@ -1,3 +1,5 @@
+  @import url('https://fonts.googleapis.com/css?family=Raleway');
+
 nav.navbar.navbar-default{
   background-color: #191919;
   color: red;
@@ -9,4 +11,16 @@ nav.navbar.navbar-default{
 .active a{
   background-color: red;
   height: 60px;
+}
+nav.navbar.navbar-default a{
+font-family: 'Raleway', sans-serif;
+font-size: 15px;
+ text-transform: uppercase;
+ font-stretch: condensed;
+ font-weight: bold;
+}
+@media screen and (max-width: 340px) {
+  .carousel-caption h1{
+    font-size: 24px;
+  }
 }

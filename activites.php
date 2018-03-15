@@ -201,9 +201,8 @@
                       </div>
                   </div>
               </div>
-          
-          </div><!-- ________1er div -->
 
+          </div><!-- ________1er div -->
 
   <?php
   include 'footer.php'; ?>

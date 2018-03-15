@@ -102,31 +102,36 @@
           <!-- /.carousel -->
           <section class="section1" data-midnight="dark" >
             <div id="section-first" class="container-fluid">
-
+</br>
               <!-- Three columns of text below the carousel -->
               <div style="text-align: center;margin-top: 10px;"class="row">
               <div class="col-lg-4">
-                <img class="img-circle" src="img/4.jpg" alt="Generic placeholder image" width="200" height="200">
+                <img class="img-circle" src="img/4-2.jpg" alt="Generic placeholder image" width="200" height="200">
                 <h2>Histoire</h2>
-                <p>De deux motivés à se réunir les jeudis soirs, nous sommes au final plus de 100 Elsas'Sportifs maintenant… Découvrez notre histoire !</p>
+                <hr>
+                <p>Nous étions 2 passionnés au départ, nous sommes plus de 100 aujourd'hui ! Découvrez notre histoire...</p>
                 <p><a class="btn btn-default" href="#section-second" role="button">Détails &raquo;</a></p>
               </div><!-- /.col-lg-4 -->
               <div class="col-lg-4">
-                <img class="img-circle" src="img/5.jpg" alt="Generic placeholder image" width="200" height="200">
+                <img class="img-circle" src="img/5-2.jpg" alt="Generic placeholder image" width="200" height="200">
                 <h2>Motivation</h2>
+                <hr>
                 <p>Le goût de l'effort, le plaisir de se réunir, de partager …
                   Nos motivations sont diverses mais nous poussent toutes vers l'avant !</p>
                   <p><a class="btn btn-default" href="#section-Third" role="button">Détails &raquo;</a></p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-4">
-                  <img class="img-circle" src="img/6.jpg" alt="Generic placeholder image" width="200" height="200">
+                  <img class="img-circle" src="img/6-2.jpg" alt="Generic placeholder image" width="200" height="200">
                   <h2>Notre but</h2>
-                  <p>Le sport c'est bien… Mais avouez que c'est quand même mieux de partager ça avec un autre motivé non ?</p>
+                  <hr>
+
+                  <p>Le sport c'est bien… Mais avouez que c'est quand même mieux de partager ça avec quelqu'un d'aussi motivé que vous, non ?</p>
                   <p><a class="btn btn-default" href="#section-final" role="button">Détails &raquo;</a></p>
                 </div><!-- /.col-lg-4 -->
 
 
             </section>
+              </br>
           <!--section histoire -->
 
           <section class="section2" data-midnight="dark" >
@@ -134,6 +139,7 @@
               <div class="col-md-6 col-md-offset-3">
                <img src="img/4.jpg" class="img-responsive" alt="Responsive image">
                 <h1>Notre histoire</h1>
+                  <hr>
                 <p class="para">Elsas’Sport est une association de sportifs et coachs, passionnés et domiciliés en Alsace.
 2013. Au départ, il y avait Anthony et Seppi. Anthony et Seppi se retrouvaient tous les jeudis soirs pour courir dans la forêt d'Illkirch. Courir pour se libérer, courir à deux pour échanger, partager, et aussi se motiver. Quand Anthony n'était pas motivé, Seppi réussissait à le faire lever de son canapé, et inversement…
 Nos deux compères se sont vite dit que tout cela serait encore plus sympa avec d'autres motivés. Ils ont donc eu l'idée de créer une association pour réunir d'autres coureurs. L'idée était que chaque membre puisse proposer une sortie ou y participer.
@@ -144,6 +150,7 @@ C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motiv
 
               </div>
             </div>
+              </br>
           </section>
             <!--section Motivation -->
             <section class="section3" data-midnight="dark" >
@@ -151,6 +158,7 @@ C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motiv
                 <div class="col-md-6 col-md-offset-3">
                  <img src="img/5.jpg" class="img-responsive" alt="Responsive image">
                   <h1>Motivation</h1>
+                    <hr>
                   <p class="para">Nous partons du principe qu’il est souvent difficile de trouver des partenaires de sport autour de soi.
                     Vous souhaitez courir dimanche, la météo n’est pas au beau fixe et vous n’avez pas envie d’être tout seul sur la route ?
                     Vous voulez vous lancer dans un road-trip à VTT, mais il vous manque une personne avec qui partager des moments uniques ?
@@ -160,6 +168,7 @@ C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motiv
 
                 </div>
               </div>
+            </br>
             </section>
 
             <!--section Notre but -->
@@ -168,6 +177,7 @@ C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motiv
                 <div class="col-md-6 col-md-offset-3">
                   <img src="img/6.jpg" class="img-responsive"  alt="Responsive image">
                   <h1>Notre but</h1>
+                    <hr>
                   <p class="para">Elsas’Sport met en relation les “grands” sportifs que vous êtes !
                     Nous voulons partager notre passion du sport avec vous, mais en y ajoutant une dimension sociale. Nous nous engageons à vous trouver de la compagnie lors de vos prochaines activités sportives grâce à un système de géolocalisation utilisé intelligemment.
                     Parallèlement à cela, nous organisons également des rencontres extra-sportives vous permettant d’échanger entre vous les bonnes (et mauvaises) pratiques de votre sport.
@@ -176,6 +186,7 @@ C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motiv
                 </div>
               </div>
             </section>
+             <button onclick="topFunction()" id="myBtn" title="Go to top"><span class="glyphicon glyphicon-chevron-up" aria-hidden="true"></span></button>
             <?php
             include 'footer.php'; ?>
 
@@ -186,6 +197,30 @@ C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motiv
           <script>
           window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')
           </script>
+
+          <script>
+          // When the user scrolls down 20px from the top of the document, show the button
+          window.onscroll = function() {scrollFunction()};
+
+          function scrollFunction() {
+              if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+                  document.getElementById("myBtn").style.display = "block";
+              } else {
+                  document.getElementById("myBtn").style.display = "none";
+              }
+          }
+
+          // When the user clicks on the button, scroll to the top of the document
+          function topFunction() {
+              document.body.scrollTop = 0;
+              document.documentElement.scrollTop = 0;
+          }
+          </script>
+
+
+
+
+
           <script src="js/midnight.jquery.min.js"></script>
           <script>
           $('.scrollTo').click(function() {
