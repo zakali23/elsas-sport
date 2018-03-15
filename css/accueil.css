@@ -53,6 +53,7 @@ animation: bounce 0.7s ease infinite}*/
 margin-bottom: 50px;
 margin-top: 30px;
 font-family: 'Raleway', sans-serif;
+
 }
 img.img-responsive{
    box-shadow: 6px 6px 0px #aaa;
@@ -77,6 +78,7 @@ img.img-responsive{
 margin-bottom: 50px;
 margin-top: 30px;
 font-family: 'Raleway', sans-serif;
+text-align: justify;
 }
 #myBtn {
   display: none;
@@ -92,6 +94,7 @@ font-family: 'Raleway', sans-serif;
   cursor: pointer;
   padding: 15px;
   border-radius: 4px;
+
 }
 
 #myBtn:hover {
