@@ -22,6 +22,37 @@
   <link href="css/header-jennifer.css" rel="stylesheet">
     <link href="css/style-footer.css" rel="stylesheet">
 <body>
+  <header>
+  <nav class="navbar navbar-default">
+<div class="container-fluid">
+<!-- Brand and toggle get grouped for better mobile display -->
+<div class="navbar-header">
+<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+  <span class="sr-only">Toggle navigation</span>
+  <span class="icon-bar"></span>
+  <span class="icon-bar"></span>
+  <span class="icon-bar"></span>
+</button>
+<div><a  href="#">
+  <img src="img/logo-blanc.png" alt="logo" height="50" width="auto" />
+</a>
+</div>
+</div>
+
+<!-- Collect the nav links, forms, and other content for toggling -->
+<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+<ul class="nav navbar-nav navbar-right">
+  <li  class="active"><a href="index.php">Accueil </a></li>
+  <li><a href="activites.php">Activités <span class="sr-only">(current)</span></a></li>
+  <li><a href="actualites.php">Actualités</a></li>
+  <li><a href="contact.php" >Contact </a>
+  </li>
+
+</ul>
+
+</div><!-- /.navbar-collapse -->
+</div><!-- /.container-fluid -->
+</nav>
   <!-- carousel -->
   <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
     <!-- Indicators -->
@@ -65,7 +96,7 @@
     </a>
   </div>
 
-
+</header>
 
   <!-- modal windows -->
   <div class="container">
@@ -442,7 +473,8 @@
 
 
   </div>
-
+  <?php
+  include 'footer.php'; ?>
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
