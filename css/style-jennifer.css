@@ -1,19 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Raleway');
-
 * {
   font-family: 'Raleway';
 }
 
-.navbar-default{
-  background-color: #191919;
-  height: 60px;
 
-}
-
-.active a{
-  background-color: red;
-  height: 60px;
-}
 
 .carousel img{
   height: 100vh;
@@ -69,7 +58,7 @@
   margin-left: auto;
   margin-right: auto;
   font-size: 1.2em;
-  text-align: justify;
+  text-align: justify !important;
   line-height: 1.8;
 }
 
@@ -79,10 +68,6 @@
 
 .thumbnail {
   border: 0px;
-}
-
-. ul li a {
-  color: blue;
 }
 
 .conteneur1{

@@ -5,8 +5,11 @@
   <title>Contact</title>
   <!-- Latest compiled and minified CSS -->
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
-  <link href="style/style.css" rel="stylesheet">
+  <link href="css/contact.css" rel="stylesheet">
+    <link href="css/style-footer.css" rel="stylesheet">
 </head>
+<?php
+include 'header.php'; ?>
 <body>
   <div class="container-fluid">
     <div id="carousel" class="container-fluid carousel slide" data-ride="carousel">
@@ -20,7 +23,7 @@
     <div class="container-fluid">
       <aside class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <p>Vous avez besoin de conseils, une idée à formuler ou même une réclamation ? <br></p>
-        <p>Ne soyez pas timide et envoyez-nous un message, nous nous ferons un plaisir de vous répondre ! Promis: on ne mord pas !</p>  
+        <p>Ne soyez pas timide et envoyez-nous un message, nous nous ferons un plaisir de vous répondre ! Promis: on ne mord pas !</p>
         <form>
           <div class="form-group">
             <input type="text" class="form-control" id="objet" placeholder="Objet">
