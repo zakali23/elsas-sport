@@ -182,7 +182,7 @@
           <div class="thumbnail">
             <img src="img/muscu1.jpg" alt="...">
             <div class="caption">
-              <h3>Muscu -Club du Parc</h3>
+              <h3>Muscu-Club du Parc</h3>
               <p>Mardi 24 Mars / 15h</p>
               <button type="button" class="btn btn-primary btn-lg" data-toggle="modal" data-target="#myModal">En savoir plus</button>
 
