@@ -80,7 +80,7 @@
         </br></br>
         <div class="container-fluid">
           <aside class="col-lg-6 ">
-            <p>Vous avez besoin de conseils, une idée à formuler ou même une réclamation ? <br></p>
+            <p>Vous avez besoin de conseils, une idée à formuler ou même une réclamation ? <br> Vous souhaitez déposer une annonce ?</br></p>
             <p>Ne soyez pas timide et envoyez-nous un message, nous nous ferons un plaisir de vous répondre !</p>
             <br></br>
             <form>
