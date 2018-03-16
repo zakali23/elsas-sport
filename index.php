@@ -118,7 +118,7 @@
                 <hr>
                 <p>Le goût de l'effort, le plaisir de se réunir, de partager …
                   Nos motivations sont diverses mais nous poussent toutes vers l'avant !</p>
-                  <p><a class="btn btn-default" href="#section-Third" role="button">Détails &raquo;</a></p>
+                  <p><a class="btn btn-default" href="#section-third" role="button">Détails &raquo;</a></p>
                 </div><!-- /.col-lg-4 -->
                 <div class="col-lg-4">
                   <img class="img-circle" src="img/6-2.jpg" alt="Generic placeholder image" width="200" height="200">
@@ -216,11 +216,6 @@ C'est comme ça qu'Elsas'Sport est née, fin 2014, lancée par 2 compères motiv
               document.documentElement.scrollTop = 0;
           }
           </script>
-
-
-
-
-
           <script src="js/midnight.jquery.min.js"></script>
           <script>
           $('.scrollTo').click(function() {

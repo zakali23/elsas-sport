@@ -89,7 +89,7 @@ text-align: justify;
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: grey;
+  background-color: #354cb0;
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -98,5 +98,5 @@ text-align: justify;
 }
 
 #myBtn:hover {
-  background-color: #555;
+  background-color: #556dd2;
 }

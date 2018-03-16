@@ -22,3 +22,35 @@ p.paragraphe{
 text-align: center;
 font-size: 18px;
 }
+@media screen and (min-width: 980px) {
+  footer img {
+  width: 4vmin;
+  max-height: 2hw;
+  }
+
+}
+input.form-control, textarea.form-control{
+  font-size: 20px;
+  background: #fff;
+    background-color: rgb(255, 255, 255);
+border: 1px solid;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-left-color: currentcolor;
+border-radius: 0px;
+
+}
+
+.btn{
+  font-size: 20px;
+  background: #fff;
+    background-color: rgb(255, 255, 255);
+border: 1px solid;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+    border-left-color: currentcolor;
+border-radius: 0px;
+
+}
