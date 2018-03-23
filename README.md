@@ -8,4 +8,4 @@ Le premier projet dans le cadre de la formation à la [ Wild Code School ](htt
 * [Jennifer](https://github.com/Jnnfrlb)
 * [Ilya](https://github.com/Ilya108)
 
-Lien sur le projet [Projet Elsas’Sport](https://github.com/zakali23/elsas-sport)
+Lien sur le projet [Elsas’Sport](https://github.com/zakali23/elsas-sport)
